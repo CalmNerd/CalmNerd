@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h5 align="center">
 A 2nd-year student pursuing Bachelors in Computer Application, from Doon Business School, Dehradun. I am a Data Science enthusiast, Web developer, and a Photographer. 
 </h5>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohittjee&label=Profile%20views&color=0e75b6&style=flat" alt="mohittjee" /> </p>
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=mohittjee&label=Profile%20views&color=0e75b6&style=flat" alt="mohittjee" /> </p>
 <p>
 <a align= "center" href="https://github.com/mohittjee">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=mohittjee&theme=radical">
