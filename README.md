@@ -32,15 +32,7 @@ A 2nd-year student pursuing Bachelors in Computer Application, from Doon Busines
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohittjee&theme=dracula&row=2&column=3" alt="Mohit Kumar" /></a></p>
  
-<table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohittjee&theme=solarized_dark"  display=block width=100% height=auto alt="1"></td>
-   </tr>
-   <tr>
-      
-  </td>
-  
-</table>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohittjee&theme=solarized_dark"  display=block width=100% height=auto alt="1">
 
 <p align="left"> <a href="https://twitter.com/_mohitsinghh" target="blank"><img src="https://img.shields.io/twitter/follow/_mohitsinghh?logo=twitter&style=for-the-badge" alt="_mohitsinghh" /></a> </p>
 
