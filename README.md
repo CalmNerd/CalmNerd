@@ -39,7 +39,7 @@ A 2nd-year student pursuing Bachelors in Computer Application, from Doon Busines
 
 <p align="center"> <a href="https://twitter.com/_mohitsinghh" target="blank"><img src="https://img.shields.io/twitter/follow/_mohitsinghh?logo=twitter&style=for-the-badge" alt="_mohitsinghh" /></a> </p>
 <p align="center">
--                                                              📫 How to reach me **mohittjee@gmail.com**
+- 📫 How to reach me **mohittjee@gmail.com**
 </p>
 <br><br>
 <hr>
