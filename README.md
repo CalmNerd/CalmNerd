@@ -1,6 +1,6 @@
-### Hi there 👋
+<!--### Hi there 👋
 
-<!--
+
 **mohittjee/mohittjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,60 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hello There<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Mohit Kumar </h1>
+<h5 align="center">
+A 2nd-year student pursuing Bachelors in Computer Application, from Doon Business School, Dehradun. I am a Data Science enthusiast, Web developer, and a Photographer. 
+</h5>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohittjee&label=Profile%20views&color=0e75b6&style=flat" alt="mohittjee" /> </p>
+<p>
+<a align= "center" href="https://github.com/mohittjee">
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=mohittjee&theme=radical">
+<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
+</p>
+
+### ⚡ Github Stats
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohittjee&theme=dracula&row=2&column=3" alt="Anshumna Sharma" /></a></p>
+ <p align="center">
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=ayan2809&theme=darkhub"> -->
+<br><br>
+
+</p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=mohittjee&theme=radical&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohittjee&theme=radical&layout=compact&hide=Jupyter%20Notebook&langs_count=8"  display=block height=190 align="center" alt="2"></td>
+   </tr>
+ </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohittjee&theme=solarized_dark"  display=block width=100% height=auto alt="1"></td>
+   </tr>
+   <tr>
+      
+  </td>
+  
+</table>
+
+<p align="left"> <a href="https://twitter.com/_mohitsinghh" target="blank"><img src="https://img.shields.io/twitter/follow/_mohitsinghh?logo=twitter&style=for-the-badge" alt="_mohitsinghh" /></a> </p>
+
+- 📫 How to reach me **mohittjee@gmail.com**
+<br><br>
+<hr>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/_mohitsinghh" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="_mohitsinghh" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ishika-kesarwani-3b32811a6/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="ishika kesarwani" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/wth_ishiii" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="wth_ishiii" height="50" width="50" /></a>
+</p>
+
+<hr>
+
+<p align="center">
+  <img src="https://github.com/mohittjee/mohittjee/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
