@@ -37,7 +37,6 @@ A 3rd-year student pursuing Bachelors in Computer Application, from Doon Busines
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohittjee&theme=solarized_dark"  display=block width=60% height=auto alt="1">
 </P>
 
-<p align="center"> <a href="https://twitter.com/OffSenseTweets" target="blank"><img src="https://img.shields.io/twitter/follow/OffSenseTweets?logo=twitter&style=for-the-badge" alt="OffSenseTweets" /></a> </p>
 
 - 📫                                        How to reach me: **mohittjee@gmail.com**
 
