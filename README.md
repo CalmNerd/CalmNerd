@@ -19,7 +19,7 @@ Here are some ideas to get you started:
          height="45"
          width="45" />, I'm Mohit Kumar </h1>
 <h5 align="center">
-A 2nd-year student pursuing Bachelors in Computer Application, from Doon Business School, Dehradun. I am a Data Science enthusiast, Web developer, and a Photographer. 
+A 3rd-year student pursuing Bachelors in Computer Application, from Doon Business School, Dehradun. I am a Data Science enthusiast, Web developer, and a Photographer. 
 </h5>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohittjee&label=Profile%20views&color=0e75b6&style=flat" alt="mohittjee" /> </p>
 <p align="center">
@@ -37,7 +37,7 @@ A 2nd-year student pursuing Bachelors in Computer Application, from Doon Busines
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohittjee&theme=solarized_dark"  display=block width=60% height=auto alt="1">
 </P>
 
-<p align="center"> <a href="https://twitter.com/_mohitsinghh" target="blank"><img src="https://img.shields.io/twitter/follow/_mohitsinghh?logo=twitter&style=for-the-badge" alt="_mohitsinghh" /></a> </p>
+<p align="center"> <a href="https://twitter.com/OffSenseTweets" target="blank"><img src="https://img.shields.io/twitter/follow/_mohitsinghh?logo=twitter&style=for-the-badge" alt="OffSenseTweets" /></a> </p>
 
 - 📫                                        How to reach me: **mohittjee@gmail.com**
 
