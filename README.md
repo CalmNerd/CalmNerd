@@ -46,8 +46,8 @@ A 2nd-year student pursuing Bachelors in Computer Application, from Doon Busines
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/_mohitsinghh" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="_mohitsinghh" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/mohittsingh/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Mohit Kumar" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/OffSenseTweets" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="OffSenseTweets" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/offsense/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Mohit Kumar" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/_mohitsinghh" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="_mohitsinghh" height="50" width="50" /></a>
 </p>
 
