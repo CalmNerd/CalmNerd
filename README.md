@@ -43,15 +43,16 @@ A 3rd-year student pursuing Bachelors in Computer Application, from Doon Busines
 
 <br><br>
 <hr>
-
+<!--
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/OffSenseTweets" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="OffSenseTweets" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/offsense/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Mohit Kumar" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/_mohitsinghh" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="_mohitsinghh" height="50" width="50" /></a>
 </p>
+<hr> 
+-->
 
-<hr>
 <!--
 <p align="center">
   <img src="https://github.com/mohittjee/mohittjee/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
