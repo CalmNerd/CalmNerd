@@ -33,10 +33,10 @@ A 3rd-year student pursuing Bachelors in Computer Application, from Doon Busines
  <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=mohittjee&count_private=true&theme=radical&show_icons=true" />
 </p> -->
 
-<!-- <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohittjee&theme=dracula&row=2&column=3" alt="Mohit Kumar" /></a></p>
+ <!-- <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohittjee&theme=dracula&row=2&column=3" alt="Mohit Kumar" /></a></p>  -->
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohittjee&theme=solarized_dark"  display=block width=60% height=auto alt="1">
-</P> -->
+</P> 
 
 
 - 📫                                        How to reach me: **mohittjee@gmail.com**
