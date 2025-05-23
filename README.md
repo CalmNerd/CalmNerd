@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hello There<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />, I'm Mohit Kumar </h1>
+         width="45" />, I'm Mohit </h1>
 <h5 align="center">
-A 3rd-year student pursuing Bachelors in Computer Application, from Doon Business School, Dehradun. I am a Web developer, and I've interest in Web3 technology. 
+A 3rd-year student pursuing Bachelors in Computer Application. I am a Web developer, and I've interest in Web3 technology. 
 </h5>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohittjee&label=Profile%20views&color=0e75b6&style=flat" alt="mohittjee" /> </p>
 
