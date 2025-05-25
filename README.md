@@ -35,7 +35,7 @@ A 3rd-year student pursuing Bachelors in Computer Application. I am a Web develo
 
  <!-- <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohittjee&theme=dracula&row=2&column=3" alt="Mohit Kumar" /></a></p>  -->
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohittjee&theme=solarized_dark"  display=block width=60% height=auto alt="1">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=calmnerd&theme=solarized_dark"  display=block width=60% height=auto alt="1">
 </P> 
 
 
