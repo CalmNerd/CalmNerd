@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h5 align="center">
 A 3rd-year student pursuing Bachelors in Computer Application. I am a Web developer, and I've interest in Web3 technology. 
 </h5>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=calmnerd&label=Profile%20views&color=0e75b6&style=flat" alt="mohittjee" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=calmnerd&label=Profile%20views&color=0e75b6&style=flat" alt="mohittjee" /> </p> -->
 
 <!-- <p align="center">
 <a align= "center" href="https://github.com/mohittjee">
