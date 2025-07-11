@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 A 3rd-year student pursuing Bachelors in Computer Application. I am a Web developer, and I've interest in Web3 technology. 
 </h5>
 
+[![GitHub Contribution Card](https://ae328e1d-b043-4009-bc24-3f638edb67dc.lovableproject.com/card/github-contribution/calmnerd)](https://ae328e1d-b043-4009-bc24-3f638edb67dc.lovableproject.com/card/github-contribution/calmnerd)
+
+
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=calmnerd&label=Profile%20views&color=0e75b6&style=flat" alt="mohittjee" /> </p> -->
 
 <!-- <p align="center">
