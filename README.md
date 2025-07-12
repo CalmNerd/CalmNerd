@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 A 3rd-year student pursuing Bachelors in Computer Application. I am a Web developer, and I've interest in Web3 technology. 
 </h5>
 
-[![GitHub Card](https://ywxtbyotqjqwhgbwzgto.supabase.co/functions/v1/github-card-image/calmnerd.svg)](https://your-app.com/card/github-contribution/calmnerd)
+[![GitHub Card](https://ywxtbyotqjqwhgbwzgto.supabase.co/functions/v1/github-card-image/calmnerd.svg)](https://ae328e1d-b043-4009-bc24-3f638edb67dc.lovableproject.com/card/github-contribution/calmnerd)
 
 
 <!-- [![GitHub Contribution Card](https://ae328e1d-b043-4009-bc24-3f638edb67dc.lovableproject.com/card/github-contribution/calmnerd)](https://ae328e1d-b043-4009-bc24-3f638edb67dc.lovableproject.com/card/github-contribution/calmnerd) -->
